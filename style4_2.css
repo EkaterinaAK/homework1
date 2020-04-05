@@ -1,10 +1,12 @@
 #P1{
+  font-size: 15px;
     text-decoration:rgb(90, 31, 90);
     font-weight:normal;
     background-color: rgba(104, 226, 151,0.6);
   }
   
   #P2{
+  font-size: 20px;
     text-decoration:lightseagreen;
     font-weight:lighter;
     background-color: rgb(128, 0, 0,0.6);
