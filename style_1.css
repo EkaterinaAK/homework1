@@ -1,0 +1,48 @@
+body{
+    background-image: url(./fon1.jpg);
+    background-repeat: repeat-x;
+}
+.ab{
+    font-size:4; 
+    color:Seagreen; 
+    font-family:Arial,sans-serif;
+}
+.cd{
+    font-size:2;
+     color:Navy ;
+     font-family:Comic Sans MS,coursive;
+}
+.ef{
+    font-size:4;
+    color:Purple;
+    font-family:Monaco,monospace;
+}
+.ld{
+    color:lightblue;
+    font-family:Monaco,monospace;
+}
+.uch{
+    color:royalblue;
+    font-family:Arial,sans-serif;
+}
+.uvl{
+    color: hotpink;
+    font-family:Comic Sans MS,coursive;
+}
+.obr{
+    width: 600px;
+    background: rgba(0,0, 0, 0.6);
+    color: rebeccapurple;
+    padding: 20px;
+    padding-right: 30px;
+    border: solid 1 px rgb(71, 12, 12);
+    float: right;
+    position: relative;
+    top:600 px; 
+    font-family:Comic Sans MS,coursive;
+    font-size:1;
+    color:rgb(19, 8, 102) ;
+}
+.ukr li:before{
+    content: "§ ";
+  }

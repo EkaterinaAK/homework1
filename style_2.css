@@ -1,0 +1,40 @@
+body{
+    background-image: url(./minsk.jpg);
+    background-repeat: repeat;
+}
+.bl1{
+    width: 300px;
+    background: rgba(7, 0, 0,0.6);
+    color:rgb(41, 180, 180);
+    padding: 20px;
+    padding-right: 50px;
+    border: solid 1 px rgb(58, 24, 24);
+    float: left;
+    font-family:Comic Sans MS,coursive;
+    font-size:1;
+    color:rgb(118, 118, 194) ;
+}
+.bl2{
+    width: 400px;
+    background: rgba(0,0, 0, 0.6);
+    color: rebeccapurple;
+    padding: 20px;
+    padding-right: 30px;
+    border: solid 1 px rgb(71, 12, 12);
+    float: right;
+    position: relative;
+    top:600 px; 
+    font-family:Comic Sans MS,coursive;
+    font-size:5;
+    color:rgb(19, 8, 102) ;
+}
+h2{
+    text-align: center;
+    font-size:5;
+    color:aqua ;
+    font-family:Comic Sans MS,coursive;
+}
+figure{
+text-align: center;
+display: flow-root;
+}

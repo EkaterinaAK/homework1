@@ -1,0 +1,11 @@
+#P1{
+    text-decoration:rgb(90, 31, 90);
+    font-weight:normal;
+    background-color: rgba(104, 226, 151,0.6);
+  }
+  
+  #P2{
+    text-decoration:lightseagreen;
+    font-weight:lighter;
+    background-color: rgb(128, 0, 0,0.6);
+  }
